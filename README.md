@@ -18,7 +18,6 @@ This project is a basic calculator built with HTML, CSS, and JavaScript. It can 
    git clone https://github.com/gauravxsharma/Simple-Calculator.git
 
 2. Open index.html in your web browser.
-# Demo
 
 # Technologies Used
 HTML
